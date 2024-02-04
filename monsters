@@ -1,0 +1,6 @@
+"monsters": [
+    {"NAME": "TEST_1", "AC": 11, "INITIATIVE": 1, "HP": 60},
+    {"NAME": "TEST_2", "AC": 12, "INITIATIVE": 2, "HP": 70},
+    {"NAME": "TEST_3", "AC": 13, "INITIATIVE": 3, "HP": 80},
+    {"NAME": "TEST_4", "AC": 14, "INITIATIVE": 4, "HP": 90},
+]
