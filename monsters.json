@@ -1,3 +1,6 @@
+제공해주신 데이터를 기반으로 텍스트를 탭으로 구분하고 각 항목을 JSON 형식으로 변환하겠습니다.
+
+```json
 [
   {
     "NAME": "좀비",
@@ -64,5 +67,283 @@
     "INITIATIVE": 3,
     "AC": 13,
     "HP": 58
+  },
+  {
+    "NAME": "거대한 염소",
+    "INITIATIVE": 0,
+    "AC": 11,
+    "HP": 19
+  },
+  {
+    "NAME": "와이번",
+    "INITIATIVE": 0,
+    "AC": 13,
+    "HP": 110
+  },
+  {
+    "NAME": "오우거",
+    "INITIATIVE": -1,
+    "AC": 11,
+    "HP": 59
+  },
+  {
+    "NAME": "A-S-B",
+    "INITIATIVE": 3,
+    "AC": 15,
+    "HP": 82
+  },
+  {
+    "NAME": "구울",
+    "INITIATIVE": 2,
+    "AC": 12,
+    "HP": 22
+  },
+  {
+    "NAME": "방패를 든 코볼트",
+    "INITIATIVE": 2,
+    "AC": 15,
+    "HP": 44
+  },
+  {
+    "NAME": "V-F-MT",
+    "INITIATIVE": 4,
+    "AC": 16,
+    "HP": 84
+  },
+  {
+    "NAME": "E-V",
+    "INITIATIVE": 1,
+    "AC": 17,
+    "HP": 58
+  },
+  {
+    "NAME": "공기 정령 ????",
+    "INITIATIVE": 2,
+    "AC": 18,
+    "HP": 117
+  },
+  {
+    "NAME": "V-G",
+    "INITIATIVE": 2,
+    "AC": 16,
+    "HP": 112
+  },
+  {
+    "NAME": "광신도",
+    "INITIATIVE": 2,
+    "AC": 13,
+    "HP": 33
+  },
+  {
+    "NAME": "사교도",
+    "INITIATIVE": 1,
+    "AC": 12,
+    "HP": 9
+  },
+  {
+    "NAME": "C-O-AW",
+    "INITIATIVE": 0,
+    "AC": 10,
+    "HP": 9
+  },
+  {
+    "NAME": "T-B",
+    "INITIATIVE": 1,
+    "AC": 13,
+    "HP": 67
+  },
+  {
+    "NAME": "탈로스 조각상",
+    "INITIATIVE": 0,
+    "AC": 17,
+    "HP": 147
+  },
+  {
+    "NAME": "M-B-BC",
+    "INITIATIVE": 3,
+    "AC": 15,
+    "HP": 65
+  },
+  {
+    "NAME": "갈리오 엘리브로",
+    "INITIATIVE": 2,
+    "AC": 12,
+    "HP": 40
+  },
+  {
+    "NAME": "유령",
+    "INITIATIVE": 1,
+    "AC": 11,
+    "HP": 45
+  },
+  {
+    "NAME": "스타 스폰 맹글러",
+    "INITIATIVE": 4,
+    "AC": 14,
+    "HP": 71
+  },
+  {
+    "NAME": "스톤 골렘",
+    "INITIATIVE": -1,
+    "AC": 17,
+    "HP": 178
+  },
+  {
+    "NAME": "위안티의 흉물",
+    "INITIATIVE": 3,
+    "AC": 15,
+    "HP": 127
+  },
+  {
+    "NAME": "거대한 구렁이",
+    "INITIATIVE": 2,
+    "AC": 12,
+    "HP": 60
+  },
+  {
+    "NAME": "거대한 악어",
+    "INITIATIVE": -1,
+    "AC": 14,
+    "HP": 85
+  },
+  {
+    "NAME": "새끼 악어",
+    "INITIATIVE": 0,
+    "AC": 12,
+    "HP": 19
+  },
+  {
+    "NAME": "트롤",
+    "INITIATIVE": 1,
+    "AC": 15,
+    "HP": 84
+  },
+  {
+    "NAME": "히드라",
+    "INITIATIVE": 1,
+    "AC": 15,
+    "HP": 172
+  },
+  {
+    "NAME": "H-LS",
+    "INITIATIVE": 0,
+    "AC": 14,
+    "HP": 52
+  },
+  {
+    "NAME":
+
+ "리자드포크 렌더링",
+    "INITIATIVE": 0,
+    "AC": 15,
+    "HP": 52
+  },
+  {
+    "NAME": "도리깨 달팽이",
+    "INITIATIVE": -3,
+    "AC": 16,
+    "HP": 52
+  },
+  {
+    "NAME": "C-HRDV",
+    "INITIATIVE": 1,
+    "AC": 18,
+    "HP": 65
+  },
+  {
+    "NAME": "공기 정령",
+    "INITIATIVE": 5,
+    "AC": 15,
+    "HP": 90
+  },
+  {
+    "NAME": "일등 항해사",
+    "INITIATIVE": 4,
+    "AC": 17,
+    "HP": 66
+  },
+  {
+    "NAME": "반란하는 선원",
+    "INITIATIVE": 1,
+    "AC": 12,
+    "HP": 11
+  },
+  {
+    "NAME": "알립",
+    "INITIATIVE": 3,
+    "AC": 13,
+    "HP": 40
+  },
+  {
+    "NAME": "스펙터",
+    "INITIATIVE": 2,
+    "AC": 12,
+    "HP": 22
+  },
+  {
+    "NAME": "보이지 않는 스토커",
+    "INITIATIVE": 4,
+    "AC": 14,
+    "HP": 104
+  },
+  {
+    "NAME": "맨티코어",
+    "INITIATIVE": 3,
+    "AC": 14,
+    "HP": 68
+  },
+  {
+    "NAME": "초 거대 게",
+    "INITIATIVE": 2,
+    "AC": 15,
+    "HP": 161
+  },
+  {
+    "NAME": "불행한 사교도",
+    "INITIATIVE": 2,
+    "AC": 12,
+    "HP": 27
+  },
+  {
+    "NAME": "바다 마귀할멈",
+    "INITIATIVE": 1,
+    "AC": 14,
+    "HP": 52
+  },
+  {
+    "NAME": "스컬 플라이어",
+    "INITIATIVE": 2,
+    "AC": 16,
+    "HP": 24
+  },
+  {
+    "NAME": "소벤달 에르킨제",
+    "INITIATIVE": 4,
+    "AC": 18,
+    "HP": 71
+  },
+  {
+    "NAME": "소벤달의 보디가드",
+    "INITIATIVE": 0,
+    "AC": 11,
+    "HP": 32
+  },
+  {
+    "NAME": "정찰병",
+    "INITIATIVE": 2,
+    "AC": 13,
+    "HP": 16
+  },
+  {
+    "NAME": "암초 사냥꾼 가드릴",
+    "INITIATIVE": 2,
+    "AC": 12,
+    "HP": 66
+  },
+  {
+    "NAME": "이빨-발톱",
+    "INITIATIVE": 1,
+    "AC": 15,
+    "HP": 45
   }
 ]
