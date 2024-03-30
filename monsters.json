@@ -1,346 +1,534 @@
 [
-  {
-    "NAME": "좀비",
-    "INITIATIVE": -2,
-    "AC": 8,
-    "HP": 22
-  },
-  {
-    "NAME": "망령",
-    "INITIATIVE": 3,
-    "AC": 13,
-    "HP": 67
-  },
-  {
-    "NAME": "여관사람(날쎈)",
-    "INITIATIVE": 3,
-    "AC": 18,
-    "HP": 30
-  },
-  {
-    "NAME": "여관사람(듬직)",
-    "INITIATIVE": 0,
-    "AC": 15,
-    "HP": 60
-  },
-  {
-    "NAME": "경비병",
-    "INITIATIVE": 1,
-    "AC": 16,
-    "HP": 11
-  },
-  {
-    "NAME": "궁수",
-    "INITIATIVE": 4,
-    "AC": 16,
-    "HP": 75
-  },
-  {
-    "NAME": "검은**기사",
-    "INITIATIVE": 3,
-    "AC": 13,
-    "HP": 58
-  },
-  {
-    "NAME": "닉소시어스(여티플링)",
-    "INITIATIVE": 0,
-    "AC": 10,
-    "HP": 75
-  },
-  {
-    "NAME": "광전사",
-    "INITIATIVE": 1,
-    "AC": 13,
-    "HP": 67
-  },
-  {
-    "NAME": "물 정령",
-    "INITIATIVE": 2,
-    "AC": 14,
-    "HP": 114
-  },
-  {
-    "NAME": "물 괴물",
-    "INITIATIVE": 3,
-    "AC": 13,
-    "HP": 58
-  },
-  {
-    "NAME": "거대한 염소",
-    "INITIATIVE": 0,
-    "AC": 11,
-    "HP": 19
-  },
-  {
-    "NAME": "와이번",
-    "INITIATIVE": 0,
-    "AC": 13,
-    "HP": 110
-  },
-  {
-    "NAME": "오우거",
-    "INITIATIVE": -1,
-    "AC": 11,
-    "HP": 59
-  },
-  {
-    "NAME": "A-S-B",
-    "INITIATIVE": 3,
-    "AC": 15,
-    "HP": 82
-  },
-  {
-    "NAME": "구울",
-    "INITIATIVE": 2,
-    "AC": 12,
-    "HP": 22
-  },
-  {
-    "NAME": "방패를 든 코볼트",
-    "INITIATIVE": 2,
-    "AC": 15,
-    "HP": 44
-  },
-  {
-    "NAME": "V-F-MT",
-    "INITIATIVE": 4,
-    "AC": 16,
-    "HP": 84
-  },
-  {
-    "NAME": "E-V",
-    "INITIATIVE": 1,
-    "AC": 17,
-    "HP": 58
-  },
-  {
-    "NAME": "공기 정령 ????",
-    "INITIATIVE": 2,
-    "AC": 18,
-    "HP": 117
-  },
-  {
-    "NAME": "V-G",
-    "INITIATIVE": 2,
-    "AC": 16,
-    "HP": 112
-  },
-  {
-    "NAME": "광신도",
-    "INITIATIVE": 2,
-    "AC": 13,
-    "HP": 33
-  },
-  {
-    "NAME": "사교도",
-    "INITIATIVE": 1,
-    "AC": 12,
-    "HP": 9
-  },
-  {
-    "NAME": "C-O-AW",
-    "INITIATIVE": 0,
-    "AC": 10,
-    "HP": 9
-  },
-  {
-    "NAME": "T-B",
-    "INITIATIVE": 1,
-    "AC": 13,
-    "HP": 67
-  },
-  {
-    "NAME": "탈로스 조각상",
-    "INITIATIVE": 0,
-    "AC": 17,
-    "HP": 147
-  },
-  {
-    "NAME": "M-B-BC",
-    "INITIATIVE": 3,
-    "AC": 15,
-    "HP": 65
-  },
-  {
-    "NAME": "갈리오 엘리브로",
-    "INITIATIVE": 2,
-    "AC": 12,
-    "HP": 40
-  },
-  {
-    "NAME": "유령",
-    "INITIATIVE": 1,
-    "AC": 11,
-    "HP": 45
-  },
-  {
-    "NAME": "스타 스폰 맹글러",
-    "INITIATIVE": 4,
-    "AC": 14,
-    "HP": 71
-  },
-  {
-    "NAME": "스톤 골렘",
-    "INITIATIVE": -1,
-    "AC": 17,
-    "HP": 178
-  },
-  {
-    "NAME": "위안티의 흉물",
-    "INITIATIVE": 3,
-    "AC": 15,
-    "HP": 127
-  },
-  {
-    "NAME": "거대한 구렁이",
-    "INITIATIVE": 2,
-    "AC": 12,
-    "HP": 60
-  },
-  {
-    "NAME": "거대한 악어",
-    "INITIATIVE": -1,
-    "AC": 14,
-    "HP": 85
-  },
-  {
-    "NAME": "새끼 악어",
-    "INITIATIVE": 0,
-    "AC": 12,
-    "HP": 19
-  },
-  {
-    "NAME": "트롤",
-    "INITIATIVE": 1,
-    "AC": 15,
-    "HP": 84
-  },
-  {
-    "NAME": "히드라",
-    "INITIATIVE": 1,
-    "AC": 15,
-    "HP": 172
-  },
-  {
-    "NAME": "H-LS",
-    "INITIATIVE": 0,
-    "AC": 14,
-    "HP": 52
-  },
-  {
-    "NAME":
+    {
+        "NAME": "망령",
+        "INITIATIVE": 3,
+        "AC": 13,
+        "HP": 67
+    },
+    {
+        "NAME": "여관사람(날쎈)",
+        "INITIATIVE": 3,
+        "AC": 18,
+        "HP": 30
+    },
+    {
+        "NAME": "여관사람(듬직)",
+        "INITIATIVE": 0,
+        "AC": 15,
+        "HP": 60
+    },
+    {
+        "NAME": "경비병",
+        "INITIATIVE": 1,
+        "AC": 16,
+        "HP": 11
+    },
+    {
+        "NAME": "궁수",
+        "INITIATIVE": 4,
+        "AC": 16,
+        "HP": 75
+    },
+    {
+        "NAME": "검은**기사",
+        "INITIATIVE": 3,
+        "AC": 13,
+        "HP": 58
+    },
+    {
+        "NAME": "닉소시어스(여티플링)",
+        "INITIATIVE": 0,
+        "AC": 10,
+        "HP": 75
+    },
+    {
+        "NAME": "광전사",
+        "INITIATIVE": 1,
+        "AC": 13,
+        "HP": 67
+    },
+    {
+        "NAME": "물 정령",
+        "INITIATIVE": 2,
+        "AC": 14,
+        "HP": 114
+    },
+    {
+        "NAME": "물 괴물",
+        "INITIATIVE": 3,
+        "AC": 13,
+        "HP": 58
+    },
+    {
+        "NAME": "거대한 염소",
+        "INITIATIVE": 0,
+        "AC": 11,
+        "HP": 19
+    },
+    {
+        "NAME": "와이번",
+        "INITIATIVE": 0,
+        "AC": 13,
+        "HP": 110
+    },
+    {
+        "NAME": "오우거",
+        "INITIATIVE": -1,
+        "AC": 11,
+        "HP": 59
+    },
+    {
+        "NAME": "A-S-B",
+        "INITIATIVE": 3,
+        "AC": 15,
+        "HP": 82
+    },
+    {
+        "NAME": "구울",
+        "INITIATIVE": 2,
+        "AC": 12,
+        "HP": 22
+    },
+    {
+        "NAME": "방패를 든 코볼트",
+        "INITIATIVE": 2,
+        "AC": 15,
+        "HP": 44
+    },
+    {
+        "NAME": "V-F-MT",
+        "INITIATIVE": 4,
+        "AC": 16,
+        "HP": 84
+    },
+    {
+        "NAME": "E-V",
+        "INITIATIVE": 1,
+        "AC": 17,
+        "HP": 58
+    },
+    {
+        "NAME": "공기 정령 ????",
+        "INITIATIVE": 2,
+        "AC": 18,
+        "HP": 117
+    },
+    {
+        "NAME": "V-G",
+        "INITIATIVE": 2,
+        "AC": 16,
+        "HP": 112
+    },
+    {
+        "NAME": "광신도",
+        "INITIATIVE": 2,
+        "AC": 13,
+        "HP": 33
+    },
+    {
+        "NAME": "사교도",
+        "INITIATIVE": 1,
+        "AC": 12,
+        "HP": 9
+    },
+    {
+        "NAME": "C-O-AW",
+        "INITIATIVE": 0,
+        "AC": 10,
+        "HP": 9
+    },
+    {
+        "NAME": "T-B",
+        "INITIATIVE": 1,
+        "AC": 13,
+        "HP": 67
+    },
+    {
+        "NAME": "탈로스 조각상",
+        "INITIATIVE": 0,
+        "AC": 17,
+        "HP": 147
+    },
+    {
+        "NAME": "M-B-BC",
+        "INITIATIVE": 3,
+        "AC": 15,
+        "HP": 65
+    },
+    {
+        "NAME": "갈리오 엘리브로",
+        "INITIATIVE": 2,
+        "AC": 12,
+        "HP": 40
+    },
+    {
+        "NAME": "유령",
+        "INITIATIVE": 1,
+        "AC": 11,
+        "HP": 45
+    },
+    {
+        "NAME": "스타 스폰 맹글러",
+        "INITIATIVE": 4,
+        "AC": 14,
+        "HP": 71
+    },
+    {
+        "NAME": "스톤 골렘",
+        "INITIATIVE": -1,
+        "AC": 17,
+        "HP": 178
+    },
+    {
+        "NAME": "위안티의 흉물",
+        "INITIATIVE": 3,
+        "AC": 15,
+        "HP": 127
+    },
+    {
+        "NAME": "거대한 구렁이",
+        "INITIATIVE": 2,
+        "AC": 12,
+        "HP": 60
+    },
+    {
+        "NAME": "거대한 악어",
+        "INITIATIVE": -1,
+        "AC": 14,
+        "HP": 85
+    },
+    {
+        "NAME": "새끼 악어",
+        "INITIATIVE": 0,
+        "AC": 12,
+        "HP": 19
+    },
+    {
+        "NAME": "트롤",
+        "INITIATIVE": 1,
+        "AC": 15,
+        "HP": 84
+    },
+    {
+        "NAME": "히드라",
+        "INITIATIVE": 1,
+        "AC": 15,
+        "HP": 172
+    },
+    {
+        "NAME": "H-LS",
+        "INITIATIVE": 0,
+        "AC": 14,
+        "HP": 52
+    },
+    {
+        "NAME": "리자드포크 렌더링",
+        "INITIATIVE": 0,
+        "AC": 15,
+        "HP": 52
+    },
+    {
+        "NAME": "도리깨 달팽이",
 
- "리자드포크 렌더링",
-    "INITIATIVE": 0,
-    "AC": 15,
-    "HP": 52
-  },
-  {
-    "NAME": "도리깨 달팽이",
-    "INITIATIVE": -3,
-    "AC": 16,
-    "HP": 52
-  },
-  {
-    "NAME": "C-HRDV",
-    "INITIATIVE": 1,
-    "AC": 18,
-    "HP": 65
-  },
-  {
-    "NAME": "공기 정령",
-    "INITIATIVE": 5,
-    "AC": 15,
-    "HP": 90
-  },
-  {
-    "NAME": "일등 항해사",
-    "INITIATIVE": 4,
-    "AC": 17,
-    "HP": 66
-  },
-  {
-    "NAME": "반란하는 선원",
-    "INITIATIVE": 1,
-    "AC": 12,
-    "HP": 11
-  },
-  {
-    "NAME": "알립",
-    "INITIATIVE": 3,
-    "AC": 13,
-    "HP": 40
-  },
-  {
-    "NAME": "스펙터",
-    "INITIATIVE": 2,
-    "AC": 12,
-    "HP": 22
-  },
-  {
-    "NAME": "보이지 않는 스토커",
-    "INITIATIVE": 4,
-    "AC": 14,
-    "HP": 104
-  },
-  {
-    "NAME": "맨티코어",
-    "INITIATIVE": 3,
-    "AC": 14,
-    "HP": 68
-  },
-  {
-    "NAME": "초 거대 게",
-    "INITIATIVE": 2,
-    "AC": 15,
-    "HP": 161
-  },
-  {
-    "NAME": "불행한 사교도",
-    "INITIATIVE": 2,
-    "AC": 12,
-    "HP": 27
-  },
-  {
-    "NAME": "바다 마귀할멈",
-    "INITIATIVE": 1,
-    "AC": 14,
-    "HP": 52
-  },
-  {
-    "NAME": "스컬 플라이어",
-    "INITIATIVE": 2,
-    "AC": 16,
-    "HP": 24
-  },
-  {
-    "NAME": "소벤달 에르킨제",
-    "INITIATIVE": 4,
-    "AC": 18,
-    "HP": 71
-  },
-  {
-    "NAME": "소벤달의 보디가드",
-    "INITIATIVE": 0,
-    "AC": 11,
-    "HP": 32
-  },
-  {
-    "NAME": "정찰병",
-    "INITIATIVE": 2,
-    "AC": 13,
-    "HP": 16
-  },
-  {
-    "NAME": "암초 사냥꾼 가드릴",
-    "INITIATIVE": 2,
-    "AC": 12,
-    "HP": 66
-  },
-  {
-    "NAME": "이빨-발톱",
-    "INITIATIVE": 1,
-    "AC": 15,
-    "HP": 45
-  }
+
+        "INITIATIVE": -3,
+        "AC": 16,
+        "HP": 52
+    },
+    {
+        "NAME": "C-HRDV",
+        "INITIATIVE": 1,
+        "AC": 18,
+        "HP": 65
+    },
+    {
+        "NAME": "공기 정령",
+        "INITIATIVE": 5,
+        "AC": 15,
+        "HP": 90
+    },
+    {
+        "NAME": "일등 항해사",
+        "INITIATIVE": 4,
+        "AC": 17,
+        "HP": 66
+    },
+    {
+        "NAME": "반란하는 선원",
+        "INITIATIVE": 1,
+        "AC": 12,
+        "HP": 11
+    },
+    {
+        "NAME": "알립",
+        "INITIATIVE": 3,
+        "AC": 13,
+        "HP": 40
+    },
+    {
+        "NAME": "스펙터",
+        "INITIATIVE": 2,
+        "AC": 12,
+        "HP": 22
+    },
+    {
+        "NAME": "보이지 않는 스토커",
+        "INITIATIVE": 4,
+        "AC": 14,
+        "HP": 104
+    },
+    {
+        "NAME": "맨티코어",
+        "INITIATIVE": 3,
+        "AC": 14,
+        "HP": 68
+    },
+    {
+        "NAME": "초 거대 게",
+        "INITIATIVE": 2,
+        "AC": 15,
+        "HP": 161
+    },
+    {
+        "NAME": "불행한 사교도",
+        "INITIATIVE": 2,
+        "AC": 12,
+        "HP": 27
+    },
+    {
+        "NAME": "바다 마귀할멈",
+        "INITIATIVE": 1,
+        "AC": 14,
+        "HP": 52
+    },
+    {
+        "NAME": "스컬 플라이어",
+        "INITIATIVE": 2,
+        "AC": 16,
+        "HP": 24
+    },
+    {
+        "NAME": "소벤달 에르킨제",
+        "INITIATIVE": 4,
+        "AC": 18,
+        "HP": 71
+    },
+    {
+        "NAME": "소벤달의 보디가드",
+        "INITIATIVE": 0,
+        "AC": 11,
+        "HP": 32
+    },
+    {
+        "NAME": "정찰병",
+        "INITIATIVE": 2,
+        "AC": 13,
+        "HP": 16
+    },
+    {
+        "NAME": "암초 사냥꾼 가드릴",
+        "INITIATIVE": 2,
+        "AC": 12,
+        "HP": 66
+    },
+    {
+        "NAME": "이빨-발톱",
+        "INITIATIVE": 1,
+        "AC": 15,
+        "HP": 45
+    },
+    {
+        "NAME": "페랄라이 스톰스웨인",
+        "INITIATIVE": 0,
+        "AC": 18,
+        "HP": 117
+    },
+    {
+        "NAME": "해골 선수상",
+        "INITIATIVE": 0,
+        "AC": 17,
+        "HP": 115
+    },
+    {
+        "NAME": "탈로스의 앵커라이트",
+        "INITIATIVE": 1,
+        "AC": 13,
+        "HP": 58
+    },
+    {
+        "NAME": "미노타우르스 스켈레톤",
+        "INITIATIVE": 0,
+        "AC": 12,
+        "HP": 67
+    },
+    {
+        "NAME": "골 배드윈드",
+        "INITIATIVE": 0,
+        "AC": 18,
+        "HP": 153
+    },
+    {
+        "NAME": "질식의 해먹",
+        "INITIATIVE": 2,
+        "AC": 12,
+        "HP": 33
+    },
+    {
+        "NAME": "살점 골렘",
+        "INITIATIVE": -1,
+        "AC": 9,
+        "HP": 93
+    },
+    {
+        "NAME": "사후아긴",
+        "INITIATIVE": 0,
+        "AC": 12,
+        "HP": 22
+    },
+    {
+        "NAME": "퀴퍼 떼",
+        "INITIATIVE": 3,
+        "AC": 13,
+        "HP": 28
+    },
+    {
+        "NAME": "사후아긴 고위 여사제",
+        "INITIATIVE": 1,
+        "AC": 14,
+        "HP": 71
+    },
+    {
+        "NAME": "사후아긴 블레이드마스터",
+        "INITIATIVE": 1,
+        "AC": 20,
+        "HP": 97
+    },
+    {
+        "NAME": "거대한 상어 해골",
+        "INITIATIVE": 0,
+        "AC": 13,
+        "HP": 126
+    },
+    {
+        "NAME": "라마룬토스",
+        "INITIATIVE": 0,
+        "AC": 19,
+        "HP": 212
+    },
+    {
+        "NAME": "비늘눈",
+        "INITIATIVE": 4,
+        "AC": 17,
+        "HP": 66
+    },
+    {
+        "NAME": "알킬리스",
+        "INITIATIVE": 4,
+        "AC": 17,
+        "HP": 157
+    },
+    {
+        "NAME": "클라우질리아마타",
+        "INITIATIVE": 1,
+        "AC": 21,
+        "HP": 385
+    },
+    {
+        "NAME": "불꽃 해골",
+        "INITIATIVE": 3,
+        "AC": 13,
+
+
+        "HP": 40
+    },
+    {
+        "NAME": "나무 덩어리",
+        "INITIATIVE": 1,
+        "AC": 18,
+        "HP": 75
+    },
+    {
+        "NAME": "아울베어",
+        "INITIATIVE": 1,
+        "AC": 13,
+        "HP": 59
+    },
+    {
+        "NAME": "독사 떼",
+        "INITIATIVE": 4,
+        "AC": 14,
+        "HP": 36
+    },
+    {
+        "NAME": "암살 덩굴",
+        "INITIATIVE": 0,
+        "AC": 13,
+        "HP": 85
+    },
+    {
+        "NAME": "위상 거미",
+        "INITIATIVE": 2,
+        "AC": 13,
+        "HP": 32
+    },
+    {
+        "NAME": "가스트",
+        "INITIATIVE": 3,
+        "AC": 13,
+        "HP": 36
+    },
+    {
+        "NAME": "오우거 좀비",
+        "INITIATIVE": -2,
+        "AC": 8,
+        "HP": 85
+    },
+    {
+        "NAME": "와이트",
+        "INITIATIVE": 2,
+        "AC": 14,
+        "HP": 45
+    },
+    {
+        "NAME": "데스록 마스터마인드",
+        "INITIATIVE": 3,
+        "AC": 16,
+        "HP": 110
+    },
+    {
+        "NAME": "도검 망령 사령관",
+        "INITIATIVE": 2,
+        "AC": 18,
+        "HP": 127
+    },
+    {
+        "NAME": "도검 망량 전사",
+        "INITIATIVE": 1,
+        "AC": 16,
+        "HP": 45
+    },
+    {
+        "NAME": "상급 좀비",
+        "INITIATIVE": 0,
+        "AC": 15,
+        "HP": 97
+    },
+    {
+        "NAME": "까마귀 떼",
+        "INITIATIVE": 2,
+        "AC": 12,
+        "HP": 24
+    },
+    {
+        "NAME": "키메라",
+        "INITIATIVE": 0,
+        "AC": 14,
+        "HP": 114
+    },
+    {
+        "NAME": "레가 스완",
+        "INITIATIVE": 4,
+        "AC": 16,
+        "HP": 84
+    }
 ]
